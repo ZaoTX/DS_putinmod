@@ -227,10 +227,10 @@
                     <object_ref id="25" name="hand_1_16" folder="5" file="1" abs_x="-233.8125" abs_y="104.599" abs_pivot_x="0.477495" abs_pivot_y="0.636004" abs_angle="99.433899" abs_scale_x="0.993478" abs_scale_y="0.993478" abs_a="1" timeline="16" key="0" z_index="25"/>
                     <object_ref id="26" name="hand_4_35" folder="5" file="4" abs_x="-90.099" abs_y="95.149" abs_pivot_x="0.458244" abs_pivot_y="0.666755" abs_angle="80.771357" abs_scale_x="0.99178" abs_scale_y="-0.99178" abs_a="1" timeline="35" key="0" z_index="26"/>
                     <object_ref id="27" name="hand_1_54" folder="5" file="1" abs_x="431.2" abs_y="102.599" abs_pivot_x="0.477495" abs_pivot_y="0.636004" abs_angle="96.509438" abs_scale_x="0.993312" abs_scale_y="0.993312" abs_a="1" timeline="54" key="0" z_index="27"/>
-                    <object_ref id="28" name="arm_lower_0_15" folder="7" file="0" abs_x="-293.8625" abs_y="81.749" abs_pivot_x="0.515989" abs_pivot_y="0.833" abs_angle="12.007813" abs_scale_x="-0.995054" abs_scale_y="0.995054" abs_a="1" timeline="15" key="0" z_index="28"/>
-                    <object_ref id="29" name="arm_upper_skin_0_90" folder="16" file="0" abs_x="-306.3625" abs_y="110.649" abs_pivot_x="0.518118" abs_pivot_y="0.741256" abs_angle="21.054704" abs_scale_x="-0.997732" abs_scale_y="0.997732" abs_a="1" timeline="90" key="0" z_index="29"/>
-                    <object_ref id="30" name="arm_lower_0_34" folder="7" file="0" abs_x="-31.655664" abs_y="74.35953" abs_pivot_x="0.535859" abs_pivot_y="0.760259" abs_angle="344.190756" abs_scale_x="0.994829" abs_scale_y="0.994829" abs_a="1" timeline="34" key="0" z_index="30"/>
-                    <object_ref id="31" name="arm_upper_skin_0_93" folder="16" file="0" abs_x="-17.699" abs_y="108.199" abs_pivot_x="0.518118" abs_pivot_y="0.741256" abs_angle="335.144894" abs_scale_x="0.997517" abs_scale_y="0.997517" abs_a="1" timeline="93" key="0" z_index="31"/>
+                    <object_ref id="28" name="arm_upper_skin_0_90" folder="16" file="0" abs_x="-306.3625" abs_y="110.649" abs_pivot_x="0.518118" abs_pivot_y="0.741256" abs_angle="21.054704" abs_scale_x="-0.997732" abs_scale_y="0.997732" abs_a="1" timeline="90" key="0" z_index="28"/>
+                    <object_ref id="29" name="arm_lower_0_15" folder="7" file="0" abs_x="-294.12988" abs_y="81.749" abs_pivot_x="0.515989" abs_pivot_y="0.833" abs_angle="12.007813" abs_scale_x="-0.995054" abs_scale_y="0.995054" abs_a="1" timeline="15" key="0" z_index="29"/>
+                    <object_ref id="30" name="arm_upper_skin_0_93" folder="16" file="0" abs_x="-17.699" abs_y="108.462158" abs_pivot_x="0.518118" abs_pivot_y="0.741256" abs_angle="335.144894" abs_scale_x="0.997517" abs_scale_y="0.997517" abs_a="1" timeline="93" key="0" z_index="30"/>
+                    <object_ref id="31" name="arm_lower_0_34" folder="7" file="0" abs_x="-31.655664" abs_y="74.35953" abs_pivot_x="0.535859" abs_pivot_y="0.760259" abs_angle="344.190756" abs_scale_x="0.994829" abs_scale_y="0.994829" abs_a="1" timeline="34" key="0" z_index="31"/>
                     <object_ref id="32" name="arm_lower_0_53" folder="7" file="0" abs_x="361.45" abs_y="83.399" abs_pivot_x="0.515989" abs_pivot_y="0.833" abs_angle="15.079289" abs_scale_x="1.008322" abs_scale_y="1.140735" abs_a="1" timeline="53" key="0" z_index="32"/>
                     <object_ref id="33" name="arm_upper_skin_0_96" folder="16" file="0" abs_x="360.4" abs_y="121.149" abs_pivot_x="0.518118" abs_pivot_y="0.741256" abs_angle="1.739572" abs_scale_x="0.996138" abs_scale_y="1.157607" abs_a="1" timeline="96" key="0" z_index="33"/>
                     <object_ref id="34" name="arm_upper_0_14" folder="8" file="0" abs_x="-306.3625" abs_y="110.649" abs_pivot_x="0.512493" abs_pivot_y="0.732506" abs_angle="21.054704" abs_scale_x="-0.997732" abs_scale_y="0.997732" abs_a="1" timeline="14" key="0" z_index="34"/>
@@ -239,10 +239,10 @@
                     <object_ref id="37" name="hand_0_13" folder="5" file="0" abs_x="-286.9625" abs_y="53.299" abs_pivot_x="0.492744" abs_pivot_y="0.621254" abs_angle="358.190093" abs_scale_x="-0.99427" abs_scale_y="0.99427" abs_a="1" timeline="13" key="0" z_index="37"/>
                     <object_ref id="38" name="hand_5_32" folder="5" file="5" abs_x="-41.649" abs_y="52.249" abs_pivot_x="0.517745" abs_pivot_y="0.599004" abs_angle="10.566026" abs_scale_x="0.992242" abs_scale_y="0.992242" abs_a="1" timeline="32" key="0" z_index="38"/>
                     <object_ref id="39" name="hand_3_51" folder="5" file="3" abs_x="371" abs_y="52.699" abs_pivot_x="0.513244" abs_pivot_y="0.614504" abs_angle="22.94658" abs_scale_x="0.991598" abs_scale_y="0.991598" abs_a="1" timeline="51" key="0" z_index="39"/>
-                    <object_ref id="40" name="arm_lower_0_12" folder="7" file="0" abs_x="-359.0615" abs_y="81.749" abs_pivot_x="0.515989" abs_pivot_y="0.833" abs_angle="347.992187" abs_scale_x="0.995054" abs_scale_y="0.995054" abs_a="1" timeline="12" key="0" z_index="40"/>
-                    <object_ref id="41" name="arm_upper_skin_0_89" folder="16" file="0" abs_x="-346.5615" abs_y="110.649" abs_pivot_x="0.518118" abs_pivot_y="0.741256" abs_angle="338.945296" abs_scale_x="0.997732" abs_scale_y="0.997732" abs_a="1" timeline="89" key="0" z_index="41"/>
-                    <object_ref id="42" name="arm_lower_0_31" folder="7" file="0" abs_x="31.283422" abs_y="78.877005" abs_pivot_x="0.54" abs_pivot_y="0.8" abs_angle="16.342719" abs_scale_x="-0.994433" abs_scale_y="0.994433" abs_a="1" timeline="31" key="0" z_index="42"/>
-                    <object_ref id="43" name="arm_upper_skin_0_92" folder="16" file="0" abs_x="16.7" abs_y="109.999" abs_pivot_x="0.518118" abs_pivot_y="0.741256" abs_angle="28.666104" abs_scale_x="-0.9973" abs_scale_y="0.9973" abs_a="1" timeline="92" key="0" z_index="43"/>
+                    <object_ref id="40" name="arm_upper_skin_0_89" folder="16" file="0" abs_x="-346.5615" abs_y="110.649" abs_pivot_x="0.518118" abs_pivot_y="0.741256" abs_angle="338.945296" abs_scale_x="0.997732" abs_scale_y="0.997732" abs_a="1" timeline="89" key="0" z_index="40"/>
+                    <object_ref id="41" name="arm_lower_0_12" folder="7" file="0" abs_x="-358.526741" abs_y="80.679481" abs_pivot_x="0.515989" abs_pivot_y="0.833" abs_angle="347.992187" abs_scale_x="0.995054" abs_scale_y="0.995054" abs_a="1" timeline="12" key="0" z_index="41"/>
+                    <object_ref id="42" name="arm_upper_skin_0_92" folder="16" file="0" abs_x="16.7" abs_y="109.999" abs_pivot_x="0.518118" abs_pivot_y="0.741256" abs_angle="28.666104" abs_scale_x="-0.9973" abs_scale_y="0.9973" abs_a="1" timeline="92" key="0" z_index="42"/>
+                    <object_ref id="43" name="arm_lower_0_31" folder="7" file="0" abs_x="31.283422" abs_y="78.877005" abs_pivot_x="0.54" abs_pivot_y="0.8" abs_angle="16.342719" abs_scale_x="-0.994433" abs_scale_y="0.994433" abs_a="1" timeline="31" key="0" z_index="43"/>
                     <object_ref id="44" name="leg_2_50" folder="6" file="2" abs_x="353.9" abs_y="48.849" abs_pivot_x="0.510825" abs_pivot_y="0.761569" abs_angle="0" abs_scale_x="1" abs_scale_y="1.062897" abs_a="1" timeline="50" key="0" z_index="44"/>
                     <object_ref id="45" name="foot_2_49" folder="4" file="2" abs_x="353.9" abs_y="16.349" abs_pivot_x="0.425" abs_pivot_y="0.65" abs_angle="0" abs_scale_x="1" abs_scale_y="1.062897" abs_a="1" timeline="49" key="0" z_index="45"/>
                     <object_ref id="46" name="arm_upper_0_11" folder="8" file="0" abs_x="-346.5615" abs_y="110.649" abs_pivot_x="0.512493" abs_pivot_y="0.732506" abs_angle="338.945296" abs_scale_x="0.997732" abs_scale_y="0.997732" abs_a="1" timeline="11" key="0" z_index="46"/>
@@ -361,7 +361,7 @@
             </timeline>
             <timeline id="12" name="arm_lower_0_12">
                 <key id="0" spin="0">
-                    <object folder="7" file="0" x="-359.0615" y="81.749" angle="347.992187" scale_x="0.995054" scale_y="0.995054"/>
+                    <object folder="7" file="0" x="-358.526741" y="80.679481" angle="347.992187" scale_x="0.995054" scale_y="0.995054"/>
                 </key>
             </timeline>
             <timeline id="13" name="hand_0_13">
@@ -376,7 +376,7 @@
             </timeline>
             <timeline id="15" name="arm_lower_0_15">
                 <key id="0" spin="0">
-                    <object folder="7" file="0" x="-293.8625" y="81.749" angle="12.007813" scale_x="-0.995054" scale_y="0.995054"/>
+                    <object folder="7" file="0" x="-294.12988" y="81.749" angle="12.007813" scale_x="-0.995054" scale_y="0.995054"/>
                 </key>
             </timeline>
             <timeline id="16" name="hand_1_16">
@@ -766,7 +766,7 @@
             </timeline>
             <timeline id="93" name="arm_upper_skin_0_93">
                 <key id="0" spin="0">
-                    <object folder="16" file="0" x="-17.699" y="108.199" angle="335.144894" scale_x="0.997517" scale_y="0.997517"/>
+                    <object folder="16" file="0" x="-17.699" y="108.462158" angle="335.144894" scale_x="0.997517" scale_y="0.997517"/>
                 </key>
             </timeline>
             <timeline id="94" name="arm_upper_skin_0_94">
