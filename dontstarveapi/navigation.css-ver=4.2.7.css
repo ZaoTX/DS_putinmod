@@ -1,0 +1,17 @@
+.nav-entry {
+    list-style-type:none;
+}
+
+.navigation {
+    line-height : 3;   
+}
+
+.navigation li {
+    border-top: 1px solid rgba(51, 51, 51, 0.1);
+    position: relative;
+}
+
+.navigation i {
+    float : right;
+    line-height: 3;
+}

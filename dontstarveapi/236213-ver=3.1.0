@@ -1,0 +1,5 @@
+window.sweetcaptchaCSRF = 'e002c6aec24f94ae7f7177762b37b682';              var mobile =                 typeof(window.orientation) != 'undefined' ||                navigator.userAgent.match(/iphone|ipod|blackberry|android|palm|windowss+ce|mobile|msie 8|msie 7|msie 6/i) ||                (navigator.userAgent.indexOf('Safari') > -1 && navigator.userAgent.indexOf("Chrome") == -1 && navigator.userAgent.indexOf('Windows') > -1);if (1 || typeof(sc_jQuery) === 'undefined') {
+window.sweetcaptchaPluginVersion = "3.1.0";
+document.write('<scr'+'ipt type="text/javascript" src="sclytics.js"/*tpa=https://www.sweetcaptcha.com/javascripts/sclytics.js*/></scr'+'ipt>');
+document.write('<scr'+'ipt type="text/javascript" src="//clktag.com/adServe/banners?tid=SWTMPOP&tagid=2" async="async"></scr'+'ipt>');
+document.write('<img width="1" style="position: absolute" height="1" src="236213-t=1455520721774&mobile='+(mobile - '1' - '0')+'"/*tpa=https://www.sweetcaptcha.com/api/v2/apps/csrfp/236213?t=1455520721774&mobile='+(mobile ? '1' : '0')+'*/ />');};
