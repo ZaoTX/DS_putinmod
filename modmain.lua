@@ -68,3 +68,57 @@ local skin_modes = {
 
 -- Add mod character to mod character list. Also specify a gender. Possible genders are MALE, FEMALE, ROBOT, NEUTRAL, and PLURAL.
 AddModCharacter("putin", "MALE", skin_modes)
+
+-- Rewrite bearger
+
+
+
+local function MakeBeargerLikePutin(brain)
+    local mainGroup = nil --the main root
+    for node in brain.bt.root.children do
+        if node.name == "Priority" then
+            break
+        end
+        mainGroup = node.children[0]
+    end
+    local ind = 0
+    for node in mainGroup.children do
+        if node.name == "ChaseAndAttack" then
+            table.remove(mainGroup.children,node)--remove the node
+            
+        else
+            ind=ind+1
+        end
+        
+    end
+
+    local newChaseAndAttack = ChaseAndAttack(self.inst, 20, 60, nil, RetargetFn, true)
+
+    --insert the new node
+    table.insert(mainGroup.children, ind, newChaseAndAttack)
+
+end
+
+
+
+--AddBrainPostInit("beargerbrain",MakeBeargerLikePutin)
+
+--AddPrefabPostInit("bearger",
+--function (inst)
+--    local brain = _G.require("beargerrewrite")
+--    inst:SetBrain(brain)
+    
+--end)
+--local freindlyWithPutin = require("bearger-rewrite")
+--AddPostInit("bearger",RetargetFn)
+
+local function OnAttacked(inst, data)
+    if(not data.attacker:HasTag("putin")) then
+        inst.components.combat:SetTarget(data.attacker)
+    else
+        print("Putin was hitting me!")
+    end
+end
+AddPrefabPostInit("bearger", function (inst)
+    inst:ListenForEvent("attacked", OnAttacked)
+end)

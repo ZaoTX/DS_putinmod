@@ -18,8 +18,10 @@ dont_starve_compatible = false
 reign_of_giants_compatible = false
 shipwrecked_compatible = false
 
--- Character mods are not required by all clients
-all_clients_require_mod = false 
+-- 是否是客户端mod
+client_only_mod = false
+-- 是否是所有客户端都需要安装
+all_clients_require_mod = true
 
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"
